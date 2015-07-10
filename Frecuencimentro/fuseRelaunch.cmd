@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "D:/Descargas/Frecuencimentro - Presentacion/top_TB_isim_beh.exe" -prj "D:/Descargas/Frecuencimentro - Presentacion/top_TB_beh.prj" "work.top_TB" 
+-intstyle "ise" -incremental -o "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top_TB_isim_beh.exe" -prj "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top_TB_beh.prj" "work.top_TB" 

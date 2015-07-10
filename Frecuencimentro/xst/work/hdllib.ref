@@ -1,22 +1,22 @@
-EN countevents NULL "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" sub00/vhpl04 1436382013
-EN counteventsdown NULL "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" sub00/vhpl08 1436382009
-AR countevents behavioral "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" sub00/vhpl05 1436382014
-EN clk_mod NULL "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" sub00/vhpl06 1436382007
-EN escaladoprepresentacion NULL "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" sub00/vhpl12 1436382015
+EN countevents NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEvents.vhd" sub00/vhpl04 1436528319
+EN counteventsdown NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEventsDown.vhd" sub00/vhpl08 1436528315
+AR countevents behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEvents.vhd" sub00/vhpl05 1436528320
+EN clk_mod NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/clk_mod.vhd" sub00/vhpl06 1436528313
+EN escaladoprepresentacion NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" sub00/vhpl12 1436528321
 AR top1 behavioral "D:/Frecuenciometro 10.0/frecuencimentro/top1.vhd" sub00/vhpl17 1436211391
 AR topsegm behavioral D:/Descargas/sed/topsegm.vhd sub00/vhpl19 1436380298
-EN bcd_g NULL "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" sub00/vhpl02 1436382005
-EN divisor NULL "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" sub00/vhpl10 1436382011
-AR divisor behavioral "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" sub00/vhpl11 1436382012
-EN top NULL "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" sub00/vhpl20 1436382019
-AR clk_mod behavioral "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" sub00/vhpl07 1436382008
-AR escaladoprepresentacion behavioral "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" sub00/vhpl13 1436382016
+EN bcd_g NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" sub00/vhpl02 1436528311
+EN divisor NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Divisor.vhd" sub00/vhpl10 1436528317
+AR divisor behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Divisor.vhd" sub00/vhpl11 1436528318
+EN top NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.vhd" sub00/vhpl20 1436528325
+AR clk_mod behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/clk_mod.vhd" sub00/vhpl07 1436528314
+AR escaladoprepresentacion behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" sub00/vhpl13 1436528322
 EN top1 NULL "D:/Frecuenciometro 10.0/frecuencimentro/top1.vhd" sub00/vhpl16 1436211390
-AR decoder dataflow "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" sub00/vhpl01 1436382004
-AR bcd_g behavioral "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" sub00/vhpl03 1436382006
-EN decoder NULL "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" sub00/vhpl00 1436382003
-AR controladorsegmentos behavioral "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" sub00/vhpl15 1436382018
-EN controladorsegmentos NULL "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" sub00/vhpl14 1436382017
-AR top behavioral "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" sub00/vhpl21 1436382020
+AR decoder dataflow "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Decodificador.vhd" sub00/vhpl01 1436528310
+AR bcd_g behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" sub00/vhpl03 1436528312
+EN decoder NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Decodificador.vhd" sub00/vhpl00 1436528309
+AR controladorsegmentos behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" sub00/vhpl15 1436528324
+EN controladorsegmentos NULL "C:/Users/sed/Documents/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" sub00/vhpl14 1436528323
+AR top behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.vhd" sub00/vhpl21 1436528326
 EN topsegm NULL D:/Descargas/sed/topsegm.vhd sub00/vhpl18 1436380297
-AR counteventsdown behavioral "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" sub00/vhpl09 1436382010
+AR counteventsdown behavioral "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEventsDown.vhd" sub00/vhpl09 1436528316

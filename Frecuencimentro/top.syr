@@ -1,16 +1,16 @@
-Release 14.7 - xst P.20131013 (nt64)
-Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Release 14.1 - xst P.15xf (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
 --> Parameter TMPDIR set to xst/projnav.tmp
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.10 secs
+Total CPU time to Xst completion: 0.08 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.10 secs
+Total CPU time to Xst completion: 0.08 secs
  
 --> Reading design: top.prj
 
@@ -104,54 +104,30 @@ Slice Utilization Ratio Delta      : 5
 =========================================================================
 *                          HDL Compilation                              *
 =========================================================================
-WARNING:HDLParsers:3607 - Unit work/clk_mod is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/clk_mod.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd".
-WARNING:HDLParsers:3607 - Unit work/clk_mod/Behavioral is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/clk_mod.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd".
-WARNING:HDLParsers:3607 - Unit work/ControladorSegmentos is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/ControladorSegmentos.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd".
-WARNING:HDLParsers:3607 - Unit work/ControladorSegmentos/Behavioral is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/ControladorSegmentos.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd".
-WARNING:HDLParsers:3607 - Unit work/CountEvents is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/CountEvents.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd".
-WARNING:HDLParsers:3607 - Unit work/CountEvents/Behavioral is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/CountEvents.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd".
-WARNING:HDLParsers:3607 - Unit work/CountEventsDown is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/CountEventsDown.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd".
-WARNING:HDLParsers:3607 - Unit work/CountEventsDown/Behavioral is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/CountEventsDown.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd".
-WARNING:HDLParsers:3607 - Unit work/Divisor is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/Divisor.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd".
-WARNING:HDLParsers:3607 - Unit work/Divisor/Behavioral is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/Divisor.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd".
-WARNING:HDLParsers:3607 - Unit work/EscaladoPrePresentacion is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/EscaladoPrePresentacion.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd".
-WARNING:HDLParsers:3607 - Unit work/EscaladoPrePresentacion/Behavioral is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/EscaladoPrePresentacion.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd".
-WARNING:HDLParsers:3607 - Unit work/bcd_g is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/conversor_bin_to_bcd_grande.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd".
-WARNING:HDLParsers:3607 - Unit work/bcd_g/Behavioral is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/conversor_bin_to_bcd_grande.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd".
-WARNING:HDLParsers:3607 - Unit work/decoder is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/Decodificador.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd".
-WARNING:HDLParsers:3607 - Unit work/decoder/dataflow is now defined in a different file.  It was defined in "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/Decodificador.vhd", and is now defined in "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd".
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" in Library work.
-Entity <decoder> compiled.
-Entity <decoder> (Architecture <dataflow>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" in Library work.
-Entity <bcd_g> compiled.
-Entity <bcd_g> (Architecture <behavioral>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" in Library work.
-Entity <clk_mod> compiled.
-Entity <clk_mod> (Architecture <behavioral>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" in Library work.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Decodificador.vhd" in Library work.
+Architecture dataflow of Entity decoder is up to date.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" in Library work.
+Architecture behavioral of Entity bcd_g is up to date.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/clk_mod.vhd" in Library work.
+Architecture behavioral of Entity clk_mod is up to date.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEventsDown.vhd" in Library work.
 Entity <counteventsdown> compiled.
 Entity <counteventsdown> (Architecture <behavioral>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" in Library work.
-Entity <divisor> compiled.
-Entity <divisor> (Architecture <behavioral>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" in Library work.
-Entity <countevents> compiled.
-Entity <countevents> (Architecture <behavioral>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" in Library work.
-Entity <escaladoprepresentacion> compiled.
-Entity <escaladoprepresentacion> (Architecture <behavioral>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" in Library work.
-Entity <controladorsegmentos> compiled.
-Entity <controladorsegmentos> (Architecture <behavioral>) compiled.
-Compiling vhdl file "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" in Library work.
-Entity <top> compiled.
-Entity <top> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Divisor.vhd" in Library work.
+Architecture behavioral of Entity divisor is up to date.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEvents.vhd" in Library work.
+Architecture behavioral of Entity countevents is up to date.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" in Library work.
+Architecture behavioral of Entity escaladoprepresentacion is up to date.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" in Library work.
+Architecture behavioral of Entity controladorsegmentos is up to date.
+Compiling vhdl file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.vhd" in Library work.
+Architecture behavioral of Entity top is up to date.
 
 =========================================================================
 *                     Design Hierarchy Analysis                         *
 =========================================================================
-Analyzing hierarchy for entity <top> in library <work> (architecture <Behavioral>).
+Analyzing hierarchy for entity <top> in library <work> (architecture <behavioral>).
 
 Analyzing hierarchy for entity <clk_mod> in library <work> (architecture <behavioral>).
 
@@ -173,20 +149,22 @@ Analyzing hierarchy for entity <decoder> in library <work> (architecture <datafl
 =========================================================================
 *                            HDL Analysis                               *
 =========================================================================
-Analyzing Entity <top> in library <work> (Architecture <Behavioral>).
-WARNING:Xst:1541 - "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" line 110: Different binding for component: <CountEvents>. Port <Output> does not match.
+Analyzing Entity <top> in library <work> (Architecture <behavioral>).
+WARNING:Xst:753 - "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.vhd" line 106: Unconnected output port 'reset_cont' of component 'Divisor'.
+WARNING:Xst:1541 - "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.vhd" line 113: Different binding for component: <CountEvents>. Port <Output> does not match.
 Entity <top> analyzed. Unit <top> generated.
 
 Analyzing Entity <clk_mod> in library <work> (Architecture <behavioral>).
 Entity <clk_mod> analyzed. Unit <clk_mod> generated.
 
 Analyzing Entity <CountEventsDown> in library <work> (Architecture <behavioral>).
-WARNING:Xst:819 - "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" line 18: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
-   <reset>
+WARNING:Xst:819 - "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEventsDown.vhd" line 29: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+   <reset>, <counter>
+INFO:Xst:2679 - Register <res> in unit <CountEventsDown> has a constant value of 0 during circuit operation. The register is replaced by logic.
 Entity <CountEventsDown> analyzed. Unit <CountEventsDown> generated.
 
 Analyzing Entity <Divisor> in library <work> (Architecture <behavioral>).
-WARNING:Xst:819 - "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" line 19: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+WARNING:Xst:819 - "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Divisor.vhd" line 30: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
    <entrada>
 Entity <Divisor> analyzed. Unit <Divisor> generated.
 
@@ -194,7 +172,7 @@ Analyzing Entity <CountEvents> in library <work> (Architecture <behavioral>).
 Entity <CountEvents> analyzed. Unit <CountEvents> generated.
 
 Analyzing Entity <EscaladoPrePresentacion> in library <work> (Architecture <behavioral>).
-WARNING:Xst:819 - "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" line 58: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+WARNING:Xst:819 - "C:/Users/sed/Documents/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" line 66: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
    <millares>, <centenas>, <decenas>, <unidades>, <millones>, <centenas_mill>, <decenas_mill>, <decenas_millones>
 Entity <EscaladoPrePresentacion> analyzed. Unit <EscaladoPrePresentacion> generated.
 
@@ -215,7 +193,7 @@ Entity <decoder> analyzed. Unit <decoder> generated.
 Performing bidirectional port resolution...
 
 Synthesizing Unit <clk_mod>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd".
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/clk_mod.vhd".
     Found 18-bit up counter for signal <contador>.
     Found 1-bit register for signal <temporal>.
     Summary:
@@ -225,7 +203,7 @@ Unit <clk_mod> synthesized.
 
 
 Synthesizing Unit <CountEventsDown>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd".
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEventsDown.vhd".
     Found 31-bit down counter for signal <counter>.
     Summary:
 	inferred   1 Counter(s).
@@ -233,13 +211,14 @@ Unit <CountEventsDown> synthesized.
 
 
 Synthesizing Unit <Divisor>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd".
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Divisor.vhd".
+WARNING:Xst:647 - Input <entrada_clk> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 WARNING:Xst:737 - Found 32-bit latch for signal <sal>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
 Unit <Divisor> synthesized.
 
 
 Synthesizing Unit <CountEvents>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd".
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEvents.vhd".
     Found 32-bit up counter for signal <temp>.
     Summary:
 	inferred   1 Counter(s).
@@ -247,303 +226,303 @@ Unit <CountEvents> synthesized.
 
 
 Synthesizing Unit <bcd_g>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd".
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0000> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0001> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0002> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0003> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0004> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0005> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0006> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0007> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0008> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0009> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0010> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0011> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0012> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0013> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0014> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0015> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0016> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0017> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0018> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0019> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0020> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0021> created at line 33.
-    Found 5-bit comparator greater for signal <shift_34$cmp_gt0022> created at line 33.
-    Found 5-bit comparator greater for signal <shift_35$cmp_gt0000> created at line 33.
-    Found 5-bit comparator greater for signal <shift_35$cmp_gt0001> created at line 33.
-    Found 5-bit comparator greater for signal <shift_35$cmp_gt0002> created at line 33.
-    Found 5-bit comparator greater for signal <shift_35$cmp_gt0003> created at line 33.
-    Found 5-bit comparator greater for signal <shift_35$cmp_gt0004> created at line 33.
-    Found 5-bit comparator greater for signal <shift_35$cmp_gt0005> created at line 33.
-    Found 4-bit adder for signal <shift_35_32$add0000> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0001> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0002> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0003> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0004> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0005> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0006> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0007> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0008> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0009> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0010> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0011> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0012> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0013> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0014> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0015> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0016> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0017> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0018> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0019> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0020> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0021> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0022> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0023> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0024> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0025> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0026> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0027> created at line 34.
-    Found 4-bit adder for signal <shift_35_32$add0028> created at line 34.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0000> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0001> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0002> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0003> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0004> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0005> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0006> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0007> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0008> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0009> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0010> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0011> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0012> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0013> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0014> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0015> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0016> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0017> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0018> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0019> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0020> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0021> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0022> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0023> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0024> created at line 37.
-    Found 5-bit comparator greater for signal <shift_39$cmp_gt0025> created at line 37.
-    Found 4-bit adder for signal <shift_39_36$add0000> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0001> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0002> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0003> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0004> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0005> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0006> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0007> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0008> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0009> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0010> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0011> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0012> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0013> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0014> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0015> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0016> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0017> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0018> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0019> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0020> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0021> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0022> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0023> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0024> created at line 39.
-    Found 4-bit adder for signal <shift_39_36$add0025> created at line 39.
-    Found 5-bit comparator greater for signal <shift_40$cmp_gt0000> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0000> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0001> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0002> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0003> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0004> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0005> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0006> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0007> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0008> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0009> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0010> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0011> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0012> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0013> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0014> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0015> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0016> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0017> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0018> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0019> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0020> created at line 42.
-    Found 5-bit comparator greater for signal <shift_43$cmp_gt0021> created at line 42.
-    Found 4-bit adder for signal <shift_43_40$add0000> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0001> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0002> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0003> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0004> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0005> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0006> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0007> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0008> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0009> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0010> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0011> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0012> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0013> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0014> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0015> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0016> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0017> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0018> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0019> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0020> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0021> created at line 44.
-    Found 4-bit adder for signal <shift_43_40$add0022> created at line 44.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0000> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0001> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0002> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0003> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0004> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0005> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0006> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0007> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0008> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0009> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0010> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0011> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0012> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0013> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0014> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0015> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0016> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0017> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0018> created at line 47.
-    Found 5-bit comparator greater for signal <shift_47$cmp_gt0019> created at line 47.
-    Found 4-bit adder for signal <shift_47_44$add0000> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0001> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0002> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0003> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0004> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0005> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0006> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0007> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0008> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0009> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0010> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0011> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0012> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0013> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0014> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0015> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0016> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0017> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0018> created at line 49.
-    Found 4-bit adder for signal <shift_47_44$add0019> created at line 49.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0000> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0001> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0002> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0003> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0004> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0005> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0006> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0007> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0008> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0009> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0010> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0011> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0012> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0013> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0014> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0015> created at line 52.
-    Found 5-bit comparator greater for signal <shift_49$cmp_gt0016> created at line 52.
-    Found 4-bit adder for signal <shift_51_48$add0000> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0001> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0002> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0003> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0004> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0005> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0006> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0007> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0008> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0009> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0010> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0011> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0012> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0013> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0014> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0015> created at line 54.
-    Found 4-bit adder for signal <shift_51_48$add0016> created at line 54.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0000> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0001> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0002> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0003> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0004> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0005> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0006> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0007> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0008> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0009> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0010> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0011> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0012> created at line 57.
-    Found 5-bit comparator greater for signal <shift_55$cmp_gt0013> created at line 57.
-    Found 4-bit adder for signal <shift_55_52$add0000> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0001> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0002> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0003> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0004> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0005> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0006> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0007> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0008> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0009> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0010> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0011> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0012> created at line 59.
-    Found 4-bit adder for signal <shift_55_52$add0013> created at line 59.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0000> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0001> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0002> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0003> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0004> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0005> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0006> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0007> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0008> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0009> created at line 62.
-    Found 5-bit comparator greater for signal <shift_59$cmp_gt0010> created at line 62.
-    Found 4-bit adder for signal <shift_59_56$add0000> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0001> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0002> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0003> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0004> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0005> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0006> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0007> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0008> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0009> created at line 64.
-    Found 4-bit adder for signal <shift_59_56$add0010> created at line 64.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0000> created at line 67.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0001> created at line 67.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0002> created at line 67.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0003> created at line 67.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0004> created at line 67.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0005> created at line 67.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0006> created at line 67.
-    Found 5-bit comparator greater for signal <shift_62$cmp_gt0007> created at line 67.
-    Found 4-bit adder for signal <shift_63_60$add0000> created at line 69.
-    Found 4-bit adder for signal <shift_63_60$add0001> created at line 69.
-    Found 4-bit adder for signal <shift_63_60$add0002> created at line 69.
-    Found 4-bit adder for signal <shift_63_60$add0003> created at line 69.
-    Found 4-bit adder for signal <shift_63_60$add0004> created at line 69.
-    Found 4-bit adder for signal <shift_63_60$add0005> created at line 69.
-    Found 4-bit adder for signal <shift_63_60$add0006> created at line 69.
-    Found 4-bit adder for signal <shift_63_60$add0007> created at line 69.
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd".
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0000> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0001> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0002> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0003> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0004> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0005> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0006> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0007> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0008> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0009> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0010> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0011> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0012> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0013> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0014> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0015> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0016> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0017> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0018> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0019> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0020> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0021> created at line 42.
+    Found 5-bit comparator greater for signal <shift_34$cmp_gt0022> created at line 42.
+    Found 5-bit comparator greater for signal <shift_35$cmp_gt0000> created at line 42.
+    Found 5-bit comparator greater for signal <shift_35$cmp_gt0001> created at line 42.
+    Found 5-bit comparator greater for signal <shift_35$cmp_gt0002> created at line 42.
+    Found 5-bit comparator greater for signal <shift_35$cmp_gt0003> created at line 42.
+    Found 5-bit comparator greater for signal <shift_35$cmp_gt0004> created at line 42.
+    Found 5-bit comparator greater for signal <shift_35$cmp_gt0005> created at line 42.
+    Found 4-bit adder for signal <shift_35_32$add0000> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0001> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0002> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0003> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0004> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0005> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0006> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0007> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0008> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0009> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0010> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0011> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0012> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0013> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0014> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0015> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0016> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0017> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0018> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0019> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0020> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0021> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0022> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0023> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0024> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0025> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0026> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0027> created at line 43.
+    Found 4-bit adder for signal <shift_35_32$add0028> created at line 43.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0000> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0001> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0002> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0003> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0004> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0005> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0006> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0007> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0008> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0009> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0010> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0011> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0012> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0013> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0014> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0015> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0016> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0017> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0018> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0019> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0020> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0021> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0022> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0023> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0024> created at line 46.
+    Found 5-bit comparator greater for signal <shift_39$cmp_gt0025> created at line 46.
+    Found 4-bit adder for signal <shift_39_36$add0000> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0001> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0002> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0003> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0004> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0005> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0006> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0007> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0008> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0009> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0010> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0011> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0012> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0013> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0014> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0015> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0016> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0017> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0018> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0019> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0020> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0021> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0022> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0023> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0024> created at line 48.
+    Found 4-bit adder for signal <shift_39_36$add0025> created at line 48.
+    Found 5-bit comparator greater for signal <shift_40$cmp_gt0000> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0000> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0001> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0002> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0003> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0004> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0005> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0006> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0007> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0008> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0009> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0010> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0011> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0012> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0013> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0014> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0015> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0016> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0017> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0018> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0019> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0020> created at line 51.
+    Found 5-bit comparator greater for signal <shift_43$cmp_gt0021> created at line 51.
+    Found 4-bit adder for signal <shift_43_40$add0000> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0001> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0002> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0003> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0004> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0005> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0006> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0007> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0008> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0009> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0010> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0011> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0012> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0013> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0014> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0015> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0016> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0017> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0018> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0019> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0020> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0021> created at line 53.
+    Found 4-bit adder for signal <shift_43_40$add0022> created at line 53.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0000> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0001> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0002> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0003> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0004> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0005> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0006> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0007> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0008> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0009> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0010> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0011> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0012> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0013> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0014> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0015> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0016> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0017> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0018> created at line 56.
+    Found 5-bit comparator greater for signal <shift_47$cmp_gt0019> created at line 56.
+    Found 4-bit adder for signal <shift_47_44$add0000> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0001> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0002> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0003> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0004> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0005> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0006> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0007> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0008> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0009> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0010> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0011> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0012> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0013> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0014> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0015> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0016> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0017> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0018> created at line 58.
+    Found 4-bit adder for signal <shift_47_44$add0019> created at line 58.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0000> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0001> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0002> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0003> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0004> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0005> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0006> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0007> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0008> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0009> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0010> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0011> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0012> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0013> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0014> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0015> created at line 61.
+    Found 5-bit comparator greater for signal <shift_49$cmp_gt0016> created at line 61.
+    Found 4-bit adder for signal <shift_51_48$add0000> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0001> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0002> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0003> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0004> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0005> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0006> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0007> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0008> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0009> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0010> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0011> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0012> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0013> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0014> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0015> created at line 63.
+    Found 4-bit adder for signal <shift_51_48$add0016> created at line 63.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0000> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0001> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0002> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0003> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0004> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0005> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0006> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0007> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0008> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0009> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0010> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0011> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0012> created at line 66.
+    Found 5-bit comparator greater for signal <shift_55$cmp_gt0013> created at line 66.
+    Found 4-bit adder for signal <shift_55_52$add0000> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0001> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0002> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0003> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0004> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0005> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0006> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0007> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0008> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0009> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0010> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0011> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0012> created at line 68.
+    Found 4-bit adder for signal <shift_55_52$add0013> created at line 68.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0000> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0001> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0002> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0003> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0004> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0005> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0006> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0007> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0008> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0009> created at line 71.
+    Found 5-bit comparator greater for signal <shift_59$cmp_gt0010> created at line 71.
+    Found 4-bit adder for signal <shift_59_56$add0000> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0001> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0002> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0003> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0004> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0005> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0006> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0007> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0008> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0009> created at line 73.
+    Found 4-bit adder for signal <shift_59_56$add0010> created at line 73.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0000> created at line 76.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0001> created at line 76.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0002> created at line 76.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0003> created at line 76.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0004> created at line 76.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0005> created at line 76.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0006> created at line 76.
+    Found 5-bit comparator greater for signal <shift_62$cmp_gt0007> created at line 76.
+    Found 4-bit adder for signal <shift_63_60$add0000> created at line 78.
+    Found 4-bit adder for signal <shift_63_60$add0001> created at line 78.
+    Found 4-bit adder for signal <shift_63_60$add0002> created at line 78.
+    Found 4-bit adder for signal <shift_63_60$add0003> created at line 78.
+    Found 4-bit adder for signal <shift_63_60$add0004> created at line 78.
+    Found 4-bit adder for signal <shift_63_60$add0005> created at line 78.
+    Found 4-bit adder for signal <shift_63_60$add0006> created at line 78.
+    Found 4-bit adder for signal <shift_63_60$add0007> created at line 78.
     Summary:
 	inferred 148 Adder/Subtractor(s).
 	inferred 148 Comparator(s).
@@ -551,7 +530,7 @@ Unit <bcd_g> synthesized.
 
 
 Synthesizing Unit <decoder>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd".
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Decodificador.vhd".
     Found 16x7-bit ROM for signal <led>.
     Summary:
 	inferred   1 ROM(s).
@@ -559,18 +538,18 @@ Unit <decoder> synthesized.
 
 
 Synthesizing Unit <EscaladoPrePresentacion>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd".
-    Found 32-bit comparator greatequal for signal <unidades_esc$cmp_ge0000> created at line 62.
-    Found 32-bit comparator greatequal for signal <unidades_esc$cmp_ge0001> created at line 65.
-    Found 32-bit comparator less for signal <unidades_esc$cmp_lt0000> created at line 60.
-    Found 32-bit comparator less for signal <unidades_esc$cmp_lt0001> created at line 62.
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd".
+    Found 32-bit comparator greatequal for signal <unidades_esc$cmp_ge0000> created at line 70.
+    Found 32-bit comparator greatequal for signal <unidades_esc$cmp_ge0001> created at line 73.
+    Found 32-bit comparator less for signal <unidades_esc$cmp_lt0000> created at line 68.
+    Found 32-bit comparator less for signal <unidades_esc$cmp_lt0001> created at line 70.
     Summary:
 	inferred   4 Comparator(s).
 Unit <EscaladoPrePresentacion> synthesized.
 
 
 Synthesizing Unit <ControladorSegmentos>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd".
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/ControladorSegmentos.vhd".
     Found 4-bit register for signal <selector>.
     Found 4-bit register for signal <s_interm>.
     Found 4-bit register for signal <s_selector>.
@@ -580,7 +559,7 @@ Unit <ControladorSegmentos> synthesized.
 
 
 Synthesizing Unit <top>.
-    Related source file is "D:/Descargas/Frecuencimentro - Presentacion/top.vhd".
+    Related source file is "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.vhd".
 Unit <top> synthesized.
 
 
@@ -592,8 +571,9 @@ Macro Statistics
  16x7-bit ROM                                          : 1
 # Adders/Subtractors                                   : 148
  4-bit adder                                           : 148
-# Counters                                             : 2
+# Counters                                             : 3
  18-bit up counter                                     : 1
+ 31-bit down counter                                   : 1
  32-bit up counter                                     : 1
 # Registers                                            : 4
  1-bit register                                        : 1
@@ -615,40 +595,6 @@ INFO:Xst:2261 - The FF/Latch <s_selector_2> in Unit <Segmentos> is equivalent to
 INFO:Xst:2261 - The FF/Latch <s_selector_3> in Unit <Segmentos> is equivalent to the following FF/Latch, which will be removed : <selector_0> 
 INFO:Xst:2261 - The FF/Latch <s_selector_0> in Unit <Segmentos> is equivalent to the following FF/Latch, which will be removed : <selector_1> 
 INFO:Xst:2261 - The FF/Latch <s_selector_1> in Unit <Segmentos> is equivalent to the following FF/Latch, which will be removed : <selector_2> 
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <31>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <30>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <29>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <28>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <27>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <26>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <25>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <24>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <23>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <22>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <21>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <20>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <19>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <18>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <17>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <16>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <15>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <14>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <13>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <12>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <11>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <10>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <9>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <8>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <7>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <6>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <5>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <4>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <3>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <2>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <0>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1290 - Hierarchical block <countdown> is unconnected in block <top>.
-   It will be removed from the design.
 
 =========================================================================
 Advanced HDL Synthesis Report
@@ -659,8 +605,9 @@ Macro Statistics
 # Adders/Subtractors                                   : 148
  3-bit adder                                           : 8
  4-bit adder                                           : 140
-# Counters                                             : 2
+# Counters                                             : 3
  18-bit up counter                                     : 1
+ 31-bit down counter                                   : 1
  32-bit up counter                                     : 1
 # Registers                                            : 13
  Flip-Flops                                            : 13
@@ -680,70 +627,6 @@ INFO:Xst:2261 - The FF/Latch <s_selector_2> in Unit <ControladorSegmentos> is eq
 INFO:Xst:2261 - The FF/Latch <s_selector_3> in Unit <ControladorSegmentos> is equivalent to the following FF/Latch, which will be removed : <selector_0> 
 INFO:Xst:2261 - The FF/Latch <s_selector_0> in Unit <ControladorSegmentos> is equivalent to the following FF/Latch, which will be removed : <selector_1> 
 INFO:Xst:2261 - The FF/Latch <s_selector_1> in Unit <ControladorSegmentos> is equivalent to the following FF/Latch, which will be removed : <selector_2> 
-WARNING:Xst:1710 - FF/Latch <0> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <1> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <2> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <3> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <4> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <5> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <6> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <7> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <8> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <9> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <10> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <11> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <12> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <13> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <14> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <15> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <16> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <17> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <18> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <19> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <20> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <21> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <22> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <23> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <24> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <25> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <26> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <27> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <28> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <29> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <30> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <31> (without init value) has a constant value of 0 in block <LPM_LATCH_1>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:2677 - Node <countup/temp_0> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_1> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_2> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_3> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_4> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_5> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_6> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_7> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_8> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_9> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_10> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_11> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_12> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_13> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_14> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_15> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_16> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_17> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_18> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_19> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_20> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_21> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_22> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_23> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_24> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_25> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_26> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_27> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_28> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_29> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_30> of sequential type is unconnected in block <top>.
-WARNING:Xst:2677 - Node <countup/temp_31> of sequential type is unconnected in block <top>.
 
 Optimizing unit <top> ...
 
@@ -752,13 +635,10 @@ Optimizing unit <bcd_g> ...
 Optimizing unit <EscaladoPrePresentacion> ...
 
 Optimizing unit <ControladorSegmentos> ...
-WARNING:Xst:1293 - FF/Latch <Segmentos/s_interm_3> has a constant value of 0 in block <top>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1293 - FF/Latch <Segmentos/s_interm_2> has a constant value of 0 in block <top>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1293 - FF/Latch <Segmentos/s_interm_1> has a constant value of 0 in block <top>. This FF/Latch will be trimmed during the optimization process.
 
 Mapping all equations...
 Building and optimizing final netlist ...
-Found area constraint ratio of 100 (+ 5) on block top, actual ratio is 1.
+Found area constraint ratio of 100 (+ 5) on block top, actual ratio is 25.
 
 Final Macro Processing ...
 
@@ -766,8 +646,8 @@ Final Macro Processing ...
 Final Register Report
 
 Macro Statistics
-# Registers                                            : 24
- Flip-Flops                                            : 24
+# Registers                                            : 90
+ Flip-Flops                                            : 90
 
 =========================================================================
 
@@ -796,21 +676,31 @@ Design Statistics
 # IOs                              : 16
 
 Cell Usage :
-# BELS                             : 85
+# BELS                             : 1052
 #      GND                         : 1
-#      INV                         : 2
-#      LUT1                        : 17
-#      LUT2                        : 19
-#      LUT4                        : 5
-#      MUXCY                       : 22
+#      INV                         : 39
+#      LUT1                        : 57
+#      LUT2                        : 60
+#      LUT2_D                      : 1
+#      LUT2_L                      : 1
+#      LUT3                        : 44
+#      LUT3_L                      : 1
+#      LUT4                        : 624
+#      LUT4_L                      : 2
+#      MUXCY                       : 134
+#      MUXF5                       : 6
 #      VCC                         : 1
-#      XORCY                       : 18
-# FlipFlops/Latches                : 24
-#      FD                          : 5
-#      FDC                         : 18
+#      XORCY                       : 81
+# FlipFlops/Latches                : 122
+#      FD                          : 4
+#      FDC                         : 74
 #      FDCE                        : 1
-# Clock Buffers                    : 1
-#      BUFGP                       : 1
+#      FDP                         : 7
+#      FDS                         : 4
+#      LD                          : 32
+# Clock Buffers                    : 4
+#      BUFG                        : 2
+#      BUFGP                       : 2
 # IO Buffers                       : 14
 #      IBUF                        : 1
 #      OBUF                        : 13
@@ -821,12 +711,12 @@ Device utilization summary:
 
 Selected Device : 3s200ft256-5 
 
- Number of Slices:                       26  out of   1920     1%  
- Number of Slice Flip Flops:             24  out of   3840     0%  
- Number of 4 input LUTs:                 43  out of   3840     1%  
+ Number of Slices:                      465  out of   1920    24%  
+ Number of Slice Flip Flops:            122  out of   3840     3%  
+ Number of 4 input LUTs:                829  out of   3840    21%  
  Number of IOs:                          16
- Number of bonded IOBs:                  15  out of    173     8%  
- Number of GCLKs:                         1  out of      8    12%  
+ Number of bonded IOBs:                  16  out of    173     9%  
+ Number of GCLKs:                         4  out of      8    50%  
 
 ---------------------------
 Partition Resource Summary:
@@ -846,29 +736,33 @@ NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
 
 Clock Information:
 ------------------
------------------------------------+---------------------------+-------+
-Clock Signal                       | Clock buffer(FF name)     | Load  |
------------------------------------+---------------------------+-------+
-clk                                | BUFGP                     | 19    |
-clk_modificado/temporal            | NONE(Segmentos/s_interm_0)| 5     |
------------------------------------+---------------------------+-------+
-INFO:Xst:2169 - HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+------------------------------------------------+------------------------+-------+
+Clock Signal                                    | Clock buffer(FF name)  | Load  |
+------------------------------------------------+------------------------+-------+
+clk                                             | BUFGP                  | 19    |
+clk_modificado/temporal1                        | BUFG                   | 39    |
+entrada                                         | BUFGP                  | 32    |
+s_act1(countdown/temporal_cmp_eq0000_wg_cy<7>:O)| BUFG(*)(div/sal_0)     | 32    |
+------------------------------------------------+------------------------+-------+
+(*) This 1 clock signal(s) are generated by combinatorial logic,
+and XST is not able to identify which are the primary clock signals.
+Please use the CLOCK_SIGNAL constraint to specify the clock signal(s) generated by combinatorial logic.
 
 Asynchronous Control Signals Information:
 ----------------------------------------
 -----------------------------------+------------------------+-------+
 Control Signal                     | Buffer(FF name)        | Load  |
 -----------------------------------+------------------------+-------+
-reset                              | IBUF                   | 19    |
+reset                              | IBUF                   | 82    |
 -----------------------------------+------------------------+-------+
 
 Timing Summary:
 ---------------
 Speed Grade: -5
 
-   Minimum period: 5.705ns (Maximum Frequency: 175.291MHz)
+   Minimum period: 6.507ns (Maximum Frequency: 153.674MHz)
    Minimum input arrival time before clock: No path found
-   Maximum output required time after clock: 6.314ns
+   Maximum output required time after clock: 11.218ns
    Maximum combinational path delay: No path found
 
 Timing Detail:
@@ -916,57 +810,144 @@ Delay:               5.705ns (Levels of Logic = 19)
                                        (66.8% logic, 33.2% route)
 
 =========================================================================
-Timing constraint: Default period analysis for Clock 'clk_modificado/temporal'
-  Clock period: 2.347ns (frequency: 426.085MHz)
-  Total number of paths / destination ports: 8 / 5
+Timing constraint: Default period analysis for Clock 'clk_modificado/temporal1'
+  Clock period: 5.193ns (frequency: 192.578MHz)
+  Total number of paths / destination ports: 545 / 43
 -------------------------------------------------------------------------
-Delay:               2.347ns (Levels of Logic = 1)
-  Source:            Segmentos/s_selector_0 (FF)
-  Destination:       Segmentos/s_interm_0 (FF)
-  Source Clock:      clk_modificado/temporal rising
-  Destination Clock: clk_modificado/temporal rising
+Delay:               5.193ns (Levels of Logic = 2)
+  Source:            Segmentos/s_selector_1 (FF)
+  Destination:       Segmentos/s_interm_2 (FF)
+  Source Clock:      clk_modificado/temporal1 rising
+  Destination Clock: clk_modificado/temporal1 rising
 
-  Data Path: Segmentos/s_selector_0 to Segmentos/s_interm_0
+  Data Path: Segmentos/s_selector_1 to Segmentos/s_interm_2
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FD:C->Q               3   0.626   1.066  Segmentos/s_selector_0 (Segmentos/s_selector_0)
-     LUT4:I0->O            1   0.479   0.000  Segmentos/s_interm_mux0001<12>1 (Segmentos/s_interm_mux0001<12>)
-     FD:D                      0.176          Segmentos/s_interm_0
+     FD:C->Q              11   0.626   1.267  Segmentos/s_selector_1 (Segmentos/s_selector_1)
+     LUT2_D:I0->O          2   0.479   0.768  Segmentos/s_interm_mux0001<15>131 (Segmentos/s_interm_mux0001<13>131)
+     LUT4:I3->O            1   0.479   0.681  Segmentos/s_interm_mux0001<14>138 (Segmentos/s_interm_mux0001<14>138)
+     FDS:S                     0.892          Segmentos/s_interm_2
     ----------------------------------------
-    Total                      2.347ns (1.281ns logic, 1.066ns route)
-                                       (54.6% logic, 45.4% route)
+    Total                      5.193ns (2.476ns logic, 2.717ns route)
+                                       (47.7% logic, 52.3% route)
 
 =========================================================================
-Timing constraint: Default OFFSET OUT AFTER for Clock 'clk_modificado/temporal'
-  Total number of paths / destination ports: 8 / 8
+Timing constraint: Default period analysis for Clock 'entrada'
+  Clock period: 6.507ns (frequency: 153.674MHz)
+  Total number of paths / destination ports: 1552 / 32
 -------------------------------------------------------------------------
-Offset:              6.314ns (Levels of Logic = 1)
+Delay:               6.507ns (Levels of Logic = 33)
+  Source:            countup/temp_1 (FF)
+  Destination:       countup/temp_31 (FF)
+  Source Clock:      entrada rising
+  Destination Clock: entrada rising
+
+  Data Path: countup/temp_1 to countup/temp_31
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDC:C->Q              3   0.626   1.066  countup/temp_1 (countup/temp_1)
+     LUT1:I0->O            1   0.479   0.000  countup/Mcount_temp_cy<1>_rt (countup/Mcount_temp_cy<1>_rt)
+     MUXCY:S->O            1   0.435   0.000  countup/Mcount_temp_cy<1> (countup/Mcount_temp_cy<1>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<2> (countup/Mcount_temp_cy<2>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<3> (countup/Mcount_temp_cy<3>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<4> (countup/Mcount_temp_cy<4>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<5> (countup/Mcount_temp_cy<5>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<6> (countup/Mcount_temp_cy<6>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<7> (countup/Mcount_temp_cy<7>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<8> (countup/Mcount_temp_cy<8>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<9> (countup/Mcount_temp_cy<9>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<10> (countup/Mcount_temp_cy<10>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<11> (countup/Mcount_temp_cy<11>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<12> (countup/Mcount_temp_cy<12>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<13> (countup/Mcount_temp_cy<13>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<14> (countup/Mcount_temp_cy<14>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<15> (countup/Mcount_temp_cy<15>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<16> (countup/Mcount_temp_cy<16>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<17> (countup/Mcount_temp_cy<17>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<18> (countup/Mcount_temp_cy<18>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<19> (countup/Mcount_temp_cy<19>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<20> (countup/Mcount_temp_cy<20>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<21> (countup/Mcount_temp_cy<21>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<22> (countup/Mcount_temp_cy<22>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<23> (countup/Mcount_temp_cy<23>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<24> (countup/Mcount_temp_cy<24>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<25> (countup/Mcount_temp_cy<25>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<26> (countup/Mcount_temp_cy<26>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<27> (countup/Mcount_temp_cy<27>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<28> (countup/Mcount_temp_cy<28>)
+     MUXCY:CI->O           1   0.056   0.000  countup/Mcount_temp_cy<29> (countup/Mcount_temp_cy<29>)
+     MUXCY:CI->O           0   0.056   0.000  countup/Mcount_temp_cy<30> (countup/Mcount_temp_cy<30>)
+     XORCY:CI->O           1   0.786   0.851  countup/Mcount_temp_xor<31> (Result<31>)
+     LUT2:I1->O            1   0.479   0.000  countup/Mcount_temp_eqn_311 (countup/Mcount_temp_eqn_31)
+     FDC:D                     0.176          countup/temp_31
+    ----------------------------------------
+    Total                      6.507ns (4.591ns logic, 1.917ns route)
+                                       (70.5% logic, 29.5% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 's_act1'
+  Total number of paths / destination ports: 134 / 2
+-------------------------------------------------------------------------
+Offset:              11.218ns (Levels of Logic = 13)
+  Source:            div/sal_4 (LATCH)
+  Destination:       led_unidades<0> (PAD)
+  Source Clock:      s_act1 falling
+
+  Data Path: div/sal_4 to led_unidades<0>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     LD:G->Q               6   0.551   1.148  div/sal_4 (div/sal_4)
+     LUT1:I0->O            1   0.479   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<0>_rt (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<0>_rt)
+     MUXCY:S->O            1   0.435   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<0> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<0>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<1> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<1>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<2> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<2>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<3> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<3>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<4> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<4>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<5> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<5>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<6> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<6>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<7> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<7>)
+     MUXCY:CI->O           1   0.056   0.000  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<8> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<8>)
+     MUXCY:CI->O          28   0.264   1.726  escalado/Mcompar_unidades_esc_cmp_lt0000_cy<9> (escalado/Mcompar_unidades_esc_cmp_lt0000_cy<9>)
+     LUT3:I1->O            5   0.479   0.783  escalado/unidades_esc<0>1 (led_unidades_0_OBUF)
+     OBUF:I->O                 4.909          led_unidades_0_OBUF (led_unidades<0>)
+    ----------------------------------------
+    Total                     11.218ns (7.562ns logic, 3.656ns route)
+                                       (67.4% logic, 32.6% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'clk_modificado/temporal1'
+  Total number of paths / destination ports: 32 / 11
+-------------------------------------------------------------------------
+Offset:              7.896ns (Levels of Logic = 2)
   Source:            Segmentos/s_interm_0 (FF)
   Destination:       led<6> (PAD)
-  Source Clock:      clk_modificado/temporal rising
+  Source Clock:      clk_modificado/temporal1 rising
 
   Data Path: Segmentos/s_interm_0 to led<6>
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FD:C->Q               4   0.626   0.779  Segmentos/s_interm_0 (Segmentos/s_interm_0)
-     OBUF:I->O                 4.909          led_6_OBUF (led<6>)
+     FDS:C->Q              7   0.626   1.201  Segmentos/s_interm_0 (Segmentos/s_interm_0)
+     LUT4:I0->O            1   0.479   0.681  Segmentos/segmento/Mrom_led111 (led_1_OBUF)
+     OBUF:I->O                 4.909          led_1_OBUF (led<1>)
     ----------------------------------------
-    Total                      6.314ns (5.535ns logic, 0.779ns route)
-                                       (87.7% logic, 12.3% route)
+    Total                      7.896ns (6.014ns logic, 1.882ns route)
+                                       (76.2% logic, 23.8% route)
 
 =========================================================================
 
 
-Total REAL time to Xst completion: 32.00 secs
-Total CPU time to Xst completion: 32.16 secs
+Total REAL time to Xst completion: 21.00 secs
+Total CPU time to Xst completion: 20.95 secs
  
 --> 
 
-Total memory usage is 331440 kilobytes
+Total memory usage is 295536 kilobytes
 
 Number of errors   :    0 (   0 filtered)
-Number of warnings :  121 (   0 filtered)
+Number of warnings :    7 (   0 filtered)
 Number of infos    :    9 (   0 filtered)
 

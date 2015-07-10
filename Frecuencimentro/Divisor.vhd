@@ -14,6 +14,7 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;
  
 entity Divisor is
 Port ( 
+			entrada_clk : in  STD_LOGIC;
 			activacion: in STD_LOGIC;
 			entrada : in std_logic_vector (31 downto 0);
 			salida: out std_logic_vector (31 downto 0);
@@ -25,15 +26,20 @@ architecture Behavioral of Divisor is
 signal sal: std_logic_vector (31 downto 0);
 signal res: std_logic;
 begin
-    process(activacion)
+    
+	process(activacion, entrada_clk)
 		begin
-			if activacion='1' then
-			   res<='1';
+		res<='0';
+			if activacion='1' then  
 				sal<=entrada;
-			else
-			res<='0';
 			end if;
-		end process;
+		
+     if activacion='0' then  
+--		res<='1';
+--     else
+	        res<='0';
+     end if; 
+	end process;
 	salida<=sal;
-	reset_cont<=res;
+	Reset_cont<=res;
 end Behavioral;

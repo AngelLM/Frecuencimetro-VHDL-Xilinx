@@ -10,7 +10,7 @@
 /*  \___\/\___\                                                    */
 /***********************************************************************/
 
-/* This file is designed for use with ISim build 0x7708f090 */
+/* This file is designed for use with ISim build 0xc3576ebc */
 
 #define XSI_HIDE_SYMBOL_SPEC true
 #include "xsi.h"
@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd";
+static const char *ng0 = "C:/Users/sed/Documents/Frecuencimentro - Presentacion/ControladorSegmentos.vhd";
 extern char *IEEE_P_2592010699;
 
 
@@ -64,7 +64,7 @@ static void work_a_0236633061_3212880686_p_0(char *t0)
     char *t34;
     char *t35;
 
-LAB0:    xsi_set_current_line(34, ng0);
+LAB0:    xsi_set_current_line(43, ng0);
     t2 = (t0 + 1152U);
     t3 = xsi_signal_has_event(t2);
     if (t3 == 1)
@@ -80,7 +80,7 @@ LAB3:    t2 = (t0 + 3312);
     *((int *)t2) = 1;
 
 LAB1:    return;
-LAB2:    xsi_set_current_line(35, ng0);
+LAB2:    xsi_set_current_line(44, ng0);
     t4 = (t0 + 1672U);
     t8 = *((char **)t4);
     t9 = (0 - 3);
@@ -121,7 +121,7 @@ LAB9:    t24 = (t0 + 3392);
     t31 = *((char **)t30);
     memcpy(t31, t19, 4U);
     xsi_driver_first_trans_fast(t24);
-    xsi_set_current_line(36, ng0);
+    xsi_set_current_line(45, ng0);
     t2 = (t0 + 1672U);
     t4 = *((char **)t2);
     t2 = (t0 + 3456);
@@ -131,32 +131,32 @@ LAB9:    t24 = (t0 + 3392);
     t15 = *((char **)t14);
     memcpy(t15, t4, 4U);
     xsi_driver_first_trans_fast_port(t2);
-    xsi_set_current_line(37, ng0);
+    xsi_set_current_line(46, ng0);
     t2 = (t0 + 1672U);
     t4 = *((char **)t2);
-    t2 = (t0 + 5765);
+    t2 = (t0 + 5865);
     t9 = xsi_mem_cmp(t2, t4, 4U);
     if (t9 == 1)
         goto LAB11;
 
-LAB16:    t8 = (t0 + 5769);
+LAB16:    t8 = (t0 + 5869);
     t25 = xsi_mem_cmp(t8, t4, 4U);
     if (t25 == 1)
         goto LAB12;
 
-LAB17:    t15 = (t0 + 5773);
+LAB17:    t15 = (t0 + 5873);
     t32 = xsi_mem_cmp(t15, t4, 4U);
     if (t32 == 1)
         goto LAB13;
 
-LAB18:    t21 = (t0 + 5777);
+LAB18:    t21 = (t0 + 5877);
     t33 = xsi_mem_cmp(t21, t4, 4U);
     if (t33 == 1)
         goto LAB14;
 
 LAB19:
-LAB15:    xsi_set_current_line(42, ng0);
-    t2 = (t0 + 5781);
+LAB15:    xsi_set_current_line(51, ng0);
+    t2 = (t0 + 5881);
     t5 = (t0 + 3520);
     t8 = (t5 + 56U);
     t14 = *((char **)t8);
@@ -177,7 +177,7 @@ LAB5:    t4 = (t0 + 1192U);
 LAB8:    xsi_size_not_matching(4U, t26, 0);
     goto LAB9;
 
-LAB11:    xsi_set_current_line(38, ng0);
+LAB11:    xsi_set_current_line(47, ng0);
     t24 = (t0 + 1032U);
     t28 = *((char **)t24);
     t10 = (15 - 15);
@@ -193,7 +193,7 @@ LAB11:    xsi_set_current_line(38, ng0);
     xsi_driver_first_trans_fast(t29);
     goto LAB10;
 
-LAB12:    xsi_set_current_line(39, ng0);
+LAB12:    xsi_set_current_line(48, ng0);
     t2 = (t0 + 1032U);
     t4 = *((char **)t2);
     t10 = (15 - 11);
@@ -209,7 +209,7 @@ LAB12:    xsi_set_current_line(39, ng0);
     xsi_driver_first_trans_fast(t5);
     goto LAB10;
 
-LAB13:    xsi_set_current_line(40, ng0);
+LAB13:    xsi_set_current_line(49, ng0);
     t2 = (t0 + 1032U);
     t4 = *((char **)t2);
     t10 = (15 - 7);
@@ -225,7 +225,7 @@ LAB13:    xsi_set_current_line(40, ng0);
     xsi_driver_first_trans_fast(t5);
     goto LAB10;
 
-LAB14:    xsi_set_current_line(41, ng0);
+LAB14:    xsi_set_current_line(50, ng0);
     t2 = (t0 + 1032U);
     t4 = *((char **)t2);
     t10 = (15 - 3);

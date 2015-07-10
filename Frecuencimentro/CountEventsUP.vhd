@@ -15,8 +15,6 @@ END CountEventsUP;
  
 ARCHITECTURE behavior OF CountEventsUP IS 
  
-    -- Component Declaration for the Unit Under Test (UUT)
- 
     COMPONENT CountEvents
     PORT(
          Entrada : IN  std_logic;

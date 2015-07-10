@@ -35,16 +35,18 @@ architecture Behavioral of top is
 	  Port ( 
 		entrada_clk : in  STD_LOGIC;
 		reset : in  STD_LOGIC;
+		reset_cont: out STD_LOGIC;
 		salida : out STD_LOGIC
 		);
 	 end component;
 	 
 	 component Divisor 
 	 port(
+		entrada_clk : in  STD_LOGIC;
 		activacion: in STD_LOGIC;
 		entrada: in STD_LOGIC_VECTOR (31 downto 0);
-		salida: out std_logic_vector(31 downto 0);
-		reset_cont: out STD_LOGIC
+		salida: out std_logic_vector(31 downto 0)
+--		reset_cont: out STD_LOGIC
 		);
 	 end component;
 	 
@@ -97,14 +99,16 @@ architecture Behavioral of top is
 
 		countdown: CountEventsDown PORT MAP(
 			entrada_clk => s_clk_mod,
+			reset_cont => s_reset_cont,
 			reset => reset,
 			salida => s_act);
 			
 		div: Divisor PORT MAP(
+			entrada_clk => s_clk_mod,
 			activacion => s_act,
 			entrada => s_contup,
-			salida => s_frec,
-			reset_cont => s_reset_cont);
+			salida => s_frec);
+--			reset_cont => s_reset_cont);
 
 		countup: CountEvents PORT MAP(
 			entrada => entrada,

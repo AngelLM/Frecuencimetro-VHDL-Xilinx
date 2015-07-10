@@ -1,5 +1,5 @@
-set -tmpdir "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/xst/projnav.tmp"
-set -xsthdpdir "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/xst"
+set -tmpdir "C:/Users/sed/Documents/Frecuencimentro - Presentacion/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/sed/Documents/Frecuencimentro - Presentacion/xst"
 elaborate
 -ifn clk_mod.prj
 -ifmt mixed

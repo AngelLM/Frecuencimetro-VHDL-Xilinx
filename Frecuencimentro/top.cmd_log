@@ -2,3 +2,74 @@ xst -intstyle ise -ifn "D:/Descargas/Frecuencimentro - Presentacion/top.xst" -of
 ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
 map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
 map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 
+xst -intstyle ise -ifn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.xst" -ofn "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+par -w -intstyle ise -ol high -t 1 top_map.ncd top.ncd top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf top.ucf 
+bitgen -intstyle ise -f top.ut top.ncd 

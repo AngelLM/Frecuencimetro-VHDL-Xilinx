@@ -1,18 +1,18 @@
-Running: D:\XIL\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Descargas/Frecuencimentro - Presentacion/top_TB_isim_beh.exe -prj D:/Descargas/Frecuencimentro - Presentacion/top_TB_beh.prj work.top_TB 
-ISim P.20131013 (signature 0x7708f090)
+Running: C:\Xilinx\14.1\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/sed/Documents/Frecuencimentro - Presentacion/top_TB_isim_beh.exe -prj C:/Users/sed/Documents/Frecuencimentro - Presentacion/top_TB_beh.prj work.top_TB 
+ISim P.15xf (signature 0xc3576ebc)
 Number of CPUs detected in this system: 4
 Turning on mult-threading, number of parallel sub-compilation jobs: 8 
 Determining compilation order of HDL files
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" into library work
-Parsing VHDL file "D:/Descargas/Frecuencimentro - Presentacion/top_TB.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Decodificador.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/Divisor.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEventsDown.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/CountEvents.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/clk_mod.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top.vhd" into library work
+Parsing VHDL file "C:/Users/sed/Documents/Frecuencimentro - Presentacion/top_TB.vhd" into library work
 Starting static elaboration
 Completed static elaboration
 Compiling package standard
@@ -31,8 +31,8 @@ Compiling architecture behavioral of entity ControladorSegmentos [controladorseg
 Compiling architecture behavioral of entity top [top_default]
 Compiling architecture behavior of entity top_tb
 Time Resolution for simulation is 1ps.
-Waiting for 1 sub-compilation(s) to finish...
+Waiting for 7 sub-compilation(s) to finish...
 Compiled 24 VHDL Units
-Built simulation executable D:/Descargas/Frecuencimentro - Presentacion/top_TB_isim_beh.exe
-Fuse Memory Usage: 36368 KB
-Fuse CPU Usage: 1450 ms
+Built simulation executable C:/Users/sed/Documents/Frecuencimentro - Presentacion/top_TB_isim_beh.exe
+Fuse Memory Usage: 35888 KB
+Fuse CPU Usage: 592 ms
